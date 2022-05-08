@@ -55,10 +55,9 @@
 	padding: 30px;
 }
 
-/* .developperLink{
-	display: inline-block;
-	vertical-align: middle;
-} */
+.developperLink{
+	padding-top: 10px;
+}
 
 p{
 	display: inline-block;
